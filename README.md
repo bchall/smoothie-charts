@@ -1,9 +1,8 @@
 # smoothie-charts
 
-This JavaScript project works with the Arrow Connect REST API.
+This JavaScript project works with https://github.com/arrow-acs/moonstone-docker-compose REST API.
 
 # Recipe
 
-* Arrow Connect Developer Account https://developer.arrowconnect.io/
 * jquery
 * smoothie
